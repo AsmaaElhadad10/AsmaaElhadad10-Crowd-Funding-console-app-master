@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "DBMS",
+        "details": "use bash script",
+        "target": "create database",
+        "start_date": "1-1-2000",
+        "end_date": "2-2-2000",
+        "owner_id": "3"
+    },
+    {
+        "id": 2,
+        "title": "memory card game",
+        "details": "we use css,html and javascript",
+        "target": "to play memory card game",
+        "start_date": "2023-04-23",
+        "end_date": "2023-04-30",
+        "owner_id": "1"
+    }
+]
